@@ -1,0 +1,24 @@
+-4 	21 	 Y IS POSITIVE
+-3.5 	11.65 	 Y IS POSITIVE
+-3 	5.437 	 Y IS POSITIVE
+-2.5 	1.752 	 Y IS POSITIVE
+-2 	0 	 Y IS ZERO
+-1.5 	-0.399 	 Y IS NEGATIVE
+-1 	0 	 Y IS ZERO
+-0.5 	0.6736 	 Y IS POSITIVE
+0 	1.146 	 Y IS POSITIVE
+0.5 	1.014 	 Y IS POSITIVE
+1 	0 	 Y IS ZERO
+1.5 	-1.947 	 Y IS NEGATIVE
+2 	-4.392 	 Y IS NEGATIVE
+2.5 	-5.676 	 Y IS NEGATIVE
+3 	0 	 Y IS ZERO
+
+x value closest to 1 = 0.5
+y value closest to 1 = 1.014
+y is 0.01432 away from 1
+# of positive y = 7
+# of negative y = 4
+# of zero = 4
+
+Program Halted

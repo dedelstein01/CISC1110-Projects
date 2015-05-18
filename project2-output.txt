@@ -1,0 +1,54 @@
+323456 	42 	3 	54 	 
+783454 	48 	10 	45 	 
+564789 	37 	6 	59 	 
+230234 	20 	7 	12 	 
+123987 	50 	12 	55 	 
+347654 	80 	5 	123 	 
+345654 	30 	23 	74 	 
+467843 	12.5 	6.5 	45 	 
+134267 	67.3 	11.25 	58 	 
+312546 	35 	25 	48 	 
+Base pay for Employee 323456 is $123 
+Tax Paid $12.3
+Net Pay: $110.7
+
+Base pay for Employee 783454 is $412 
+Tax Paid $41.2
+Net Pay: $370.8
+
+Base pay for Employee 564789 is $222 
+Tax Paid: $44.4 
+Net Pay: $177.6
+
+Base pay for Employee 230234 is $140 
+Tax Paid $14
+Net Pay: $126
+
+Base pay for Employee 123987 is $495 
+Tax Paid: $99 
+Net Pay: $396
+
+Base pay for Employee 347654 is $260 
+Tax Paid: $52 
+Net Pay: $208
+
+Base pay for Employee 345654 is $690 
+Tax Paid: $138 
+Net Pay: $552
+
+Base pay for Employee 467843 is $81.25 
+Tax Paid $8.125
+Net Pay: $73.125
+
+Base pay for Employee 134267 is $490.95 
+Tax Paid: $98.19 
+Net Pay: $392.76
+
+Base pay for Employee 312546 is $875 
+Tax Paid $87.5
+Net Pay: $787.5
+
+Oldest employee is 347654 age 123
+Employee paying the most tax is 345654 with total taxes of $138
+
+The payroll program is complete

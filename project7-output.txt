@@ -1,0 +1,87 @@
+Welcome
+notebooks 	9 	-8 	0 	12 	Revenue is Mixed
+ 
+Yearly Total: 13
+Avg quarterly profit: 3
+
+diskettes 	1 	29 	345 	-9 	Revenue is Mixed
+ 
+Yearly Total: 366
+Avg quarterly profit: 91
+
+pencils 	3 	5 	24 	13 	Revenue is Mixed
+ 
+Yearly Total: 45
+Avg quarterly profit: 11
+
+pens 	12 	15 	31 	34 	Revenue Increasing
+ 
+Yearly Total: 92
+Avg quarterly profit: 23
+
+folders 	3 	8 	13 	24 	Revenue Increasing
+ 
+Yearly Total: 48
+Avg quarterly profit: 12
+
+cups 	4 	1 	-2 	-8 	Revenue Decreasing
+ 
+Yearly Total: -5
+Avg quarterly profit: -1
+
+plates 	25 	18 	7 	2 	Revenue Decreasing
+ 
+Yearly Total: 52
+Avg quarterly profit: 13
+
+forks 	10 	15 	8 	17 	Revenue is Mixed
+ 
+Yearly Total: 50
+Avg quarterly profit: 12
+
+spoons 	-1 	-2 	-3 	-4 	Revenue Decreasing
+ 
+Yearly Total: -10
+Avg quarterly profit: -2
+
+knives 	0 	30 	3 	4 	Revenue is Mixed
+ 
+Yearly Total: 37
+Avg quarterly profit: 9
+
+desks 	10 	20 	30 	40 	Revenue Increasing
+ 
+Yearly Total: 100
+Avg quarterly profit: 25
+
+chairs 	2 	3 	-1 	-10 	Revenue is Mixed
+ 
+Yearly Total: -6
+Avg quarterly profit: -1
+
+envelopes 	3 	9 	-3 	91 	Revenue is Mixed
+ 
+Yearly Total: 100
+Avg quarterly profit: 25
+
+hats 	-5 	-5 	-5 	25 	Revenue is Mixed
+ 
+Yearly Total: 10
+Avg quarterly profit: 2
+
+clips 	2 	8 	9 	11 	Revenue Increasing
+ 
+Yearly Total: 30
+Avg quarterly profit: 7
+
+***********************************
+Total Profit: 922
+Q1 - Best item: 'plates' with profit of: 25
+Q2 - Best item: 'knives' with profit of: 30
+Q3 - Best item: 'diskettes' with profit of: 345
+Q4 - Best item: 'envelopes' with profit of: 91
+
+Q1 - Ups: 12 downs: 2 zeros: 1
+Q2 - Ups: 12 downs: 3 zeros: 0
+Q3 - Ups: 9 downs: 5 zeros: 1
+Q4 - Ups: 11 downs: 4 zeros: 0

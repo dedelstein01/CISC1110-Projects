@@ -1,0 +1,16 @@
+Enter number between 1 and 6: (-1 to exit)1die1 entered
+Enter number between 1 and 6: (-1 to exit)
+5die2 entered
+6
+Roll again
+Enter number between 1 and 6: (-1 to exit)4die1 entered
+Enter number between 1 and 6: (-1 to exit)
+3die2 entered
+7
+Player wins
+Enter number between 1 and 6: (-1 to exit)1die1 entered
+Enter number between 1 and 6: (-1 to exit)
+1die2 entered
+2
+Player losses
+Enter number between 1 and 6: (-1 to exit)-1

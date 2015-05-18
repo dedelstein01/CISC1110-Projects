@@ -1,0 +1,55 @@
+[Version]
+Signature="$Windows NT$"
+Provider = "SecureW2"
+Config = 7
+
+[WZCSVC]
+Startup = AUTO
+
+[DOT3SVC]
+Startup = AUTO
+
+[SYSCHECK.OFFLINE]
+Enabled = TRUE
+ProductName.1 = "DW WLAN"
+ProductName.2 = "Broadcom Management Programs"
+ProductName.3 = "Intel(R) PROSet/Wireless WiFi Software"
+ProductName.4 = "Thinkvantage Wireless Connections"
+
+[SYSCHECK.ONLINE]
+Enabled = TRUE
+Server = cloud.securew2.com
+Port = 443
+Service = PaladinServlet/Main
+
+[SERVICE]
+DisableWirelessOnWired = FALSE
+
+[SSID.1]
+Name = BC-WiFi
+Profile = BC-WiFi
+SecurityType = WPA-Enterprise
+EncryptionType = AES
+NonBroadcast = false
+EAPType = TTLS
+CacheUserData = true
+AuthMode = user
+
+[Profile.1]
+Name = BC-WiFi
+UseSessionResumption = true
+VerifyServerCertificate = false
+VerifyServerName = TRUE
+ServerName = "radius.brooklyn.cuny.edu"
+AllowNewConnections = true
+AuthenticationMethod = PAP
+PromptUserForCredentials = FALSE
+UserName = PROMPTUSER
+AlwaysSaveUserCredentials = TRUE
+BypassBalloonNotification = TRUE
+HideDomain = TRUE
+AltUsernameString = "Email ID"
+AltPasswordStr = "Email Password"
+AltRePasswordStr = "Reenter Password"
+
+

@@ -1,0 +1,15 @@
+notebooks	9 -8 0 12
+diskettes	1 29 345 -9
+pencils		3 5 24 13
+pens		12 15 31 34
+folders		3 8 13 24
+cups		4 1 -2 -8
+plates		25 18 7 2
+forks		10 15 8 17
+spoons		-1 -2 -3 -4
+knives		0 30 3 4
+desks		10 20 30 40
+chairs		2 3 -1 -10
+envelopes	3 9 -3 91
+hats		-5 -5 -5 25
+clips		2 8 9 11

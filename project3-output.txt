@@ -1,0 +1,70 @@
+Team 1111
+10 Wins	10 losses
+Total number of games played is 20
+The season is finished
+The winning percentage is 0.50000
+The team is 0 games above 0.50000
+
+Team 1112
+9 Wins	11 losses
+Total number of games played is 20
+The season is finished
+The winning percentage is 0.45000
+The team is 2 games above 0.50000
+
+Team 1113
+8 Wins	12 losses
+Total number of games played is 20
+The season is finished
+The winning percentage is 0.40000
+The team is 4 games above 0.50000
+
+Team 1114
+9 Wins	10 losses
+Total number of games played is 19
+1 games remaining
+The winning percentage is 0.47368
+The team is 1 games above 0.50000
+
+Team 1115
+6 Wins	13 losses
+Total number of games played is 19
+1 games remaining
+The winning percentage is 0.31579
+The team is 7 games above 0.50000
+
+Team 1116
+11 Wins	8 losses
+Total number of games played is 19
+1 games remaining
+The winning percentage is 0.57895
+The team is 3 games above 0.50000
+
+Team 1117
+17 Wins	1 losses
+Total number of games played is 18
+2 games remaining
+The winning percentage is 0.94444
+The team is 16 games above 0.50000
+
+Team 1118
+16 Wins	3 losses
+Total number of games played is 19
+1 games remaining
+The winning percentage is 0.84211
+The team is 13 games above 0.50000
+
+Team 1119
+15 Wins	5 losses
+Total number of games played is 20
+The season is finished
+The winning percentage is 0.75000
+The team is 10 games above 0.50000
+
+Team 1110
+9 Wins	11 losses
+Total number of games played is 20
+The season is finished
+The winning percentage is 0.45000
+The team is 2 games above 0.50000
+
